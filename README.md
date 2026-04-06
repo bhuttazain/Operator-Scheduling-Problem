@@ -1,4 +1,1 @@
-# Operator-Scheduling-Problem
-
-
-https://colab.research.google.com/github/bhuttazain/Operator-Scheduling-Problem/blob/main/Operator_Scheduling_Problem.ipynb
+# Operator-Scheduling-Problem [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
