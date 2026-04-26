@@ -1,1 +1,7 @@
-## Operator-Scheduling-Problem      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+## Notebook
+
+The full implementation, experiments, results, and analysis are provided in the Jupyter Notebook below.
+
+| Notebook | Link |
+|---|---|
+| Operator Scheduling Problem | [Open in Google Colab](https://colab.research.google.com/github/bhuttazain/Operator-Scheduling-Problem/blob/main/Operator_Scheduling_Problem.ipynb#scrollTo=a477fc76) |
